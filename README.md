@@ -9,8 +9,9 @@ Neste repositório, temos as funções de login e senha criadas em Python. O rep
 - [@alexandrebenevenuto](https://www.github.com/TT004)
 - [@lucasvilharba](https://www.github.com/lvilharba)
 - [@danielribeiro](https://www.github.com/dannielnotfound)
-- [@jenifer](https://www.github.com/jenifercsg)
-- [@leticia](https://www.github.com/leticiacsg)
-- [@eduardo](https://www.github.com/edueevaristo)
+- [@jenifergoncalves](https://www.github.com/jenifercsg)
+- [@leticiaborges](https://www.github.com/leticiacsg)
+- [@eduardoevaristo](https://www.github.com/edueevaristo)
+- [@henriquemalaga](https://www.github.com/Malagadixx)
 
 
