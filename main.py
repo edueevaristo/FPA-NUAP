@@ -42,7 +42,7 @@ def cadastro():
         confirmacao_senha = input()
 
         if senha == confirmacao_senha:
-            print("Senhas coincidem, prosseguindo para cadastro...")
+            print("Senhas coincidem, prosseguindo para o cadastro...")
             break
 
     senha_hash = tratar_senha(str(senha))
